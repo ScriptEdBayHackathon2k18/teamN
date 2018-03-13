@@ -1,6 +1,6 @@
 # RESOURCES
 ### Hackathon Resources
-* [ScriptEd Hackathon Devpost]()
+* [ScriptEd Hackathon Devpost](https://scripted-test-hackathon.devpost.com/)
 * [Hackathon Team Packet](https://docs.google.com/document/d/1rPXYDPcEIEvKNWOZcJCR5SZBExAPwUoJYb-mQy3Iq9E/edit)
 
 ### Coding Resources
