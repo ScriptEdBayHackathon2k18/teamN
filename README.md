@@ -1,4 +1,4 @@
-# ScriptEd Hackathon: Dare Explore Disrupt!
+# ScriptEd Bay Area Hackathon: Dare Explore Disrupt!
 
 ### Your Project Members
 
