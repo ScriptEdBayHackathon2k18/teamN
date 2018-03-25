@@ -1,12 +1,19 @@
 h1 {
   color: Red;
   text-align: center;
+   font-family: 'Lobster', cursive;
 }
 #Agree{
 background-color: #8c4d24;
-  
+/*   font-family: 'Playfair Display', serif; */
 }
 #Disagree{
 background-color: #e26ab0;
 
+}
+
+@font-face {
+  font-family: 'thefont';
+  src: url('fonts/the-font.otf');
+  font-style: normal;
 }

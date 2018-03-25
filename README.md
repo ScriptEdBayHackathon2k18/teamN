@@ -1,8 +1,15 @@
 # ScriptEd Bay Area Hackathon: Dare Explore Disrupt!
 
 ### Your Project Members
+Nayeli
+Ali
+Jose
 
-### What is the name of your project?    
+Patrick (Volunteer)
+Joyce (Volunteer)
+
+### What is the name of your project?
+
 
 ### What does this project do?
 
