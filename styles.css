@@ -18,12 +18,18 @@ background-color: #FFBD50;
 #Agree{
   background-color: #8c4d24;
 font-family: 'Bangers', cursive;
+width: 115px;
+height: 40px;
+}
+#HomeButtons{
+display: flex;
+justify-content: center;
 }
 #Disagree{
 background-color: #e26ab0;
 font-family: 'Bangers', cursive;
-width: 30px;
-heigth: 50px;
+width: 115px;
+height: 40px;
 }
 
 
@@ -41,11 +47,15 @@ heigth: 50px;
  width: 1110px;
  border: 10px red;
     border-style:  double;
-    margin: 140px;
+    margin: 90px;
     padding: 4px;;
 background-color: #FFBD50;
 }
-
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 #MadTrump{
     width: 400px;
     height: auto;
