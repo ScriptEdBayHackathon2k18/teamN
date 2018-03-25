@@ -1,15 +1,19 @@
+/* GLOBAL STYLES */
 @font-face {
   font-family: 'Bangers';
   src: url("https://fonts.googleapis.com/css?family=Bangers");
   font-style: normal;
 }
-#MainPage{
-background-color: 
-}
 h1 {
   color: Red;
   text-align: center;
   font-family: 'Lobster', cursive;
+}
+
+
+/* MAIN PAGE */
+#MainPage{
+background-color: #FFBD50;
 }
 #Agree{
   background-color: #8c4d24;
@@ -18,10 +22,31 @@ font-family: 'Bangers', cursive;
 #Disagree{
 background-color: #e26ab0;
 font-family: 'Bangers', cursive;
+width: 30px;
+heigth: 50px;
 }
+
+
+/* AGREE PAGE */
 #Agreepage{
-  background-color: red;}
+  background-color: #FFBD50;
+}
+#happy{
+    width: 400px;
+    height: auto;
+}
+
+/* DISAGREE PAGE */
 #DisagreePage{
-h1}
-  
-$
+ width: 1110px;
+ border: 10px red;
+    border-style:  double;
+    margin: 140px;
+    padding: 4px;;
+background-color: #FFBD50;
+}
+
+#MadTrump{
+    width: 400px;
+    height: auto;
+}
