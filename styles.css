@@ -1,19 +1,19 @@
+@font-face {
+  font-family: 'Playfair Display';
+  src: url("https://fonts.googleapis.com/css?family=Bangers");
+  font-style: normal;
+}
+
 h1 {
   color: Red;
   text-align: center;
-   font-family: 'Lobster', cursive;
+  font-family: 'Lobster', cursive;
 }
 #Agree{
-background-color: #8c4d24;
+  background-color: #8c4d24;
 /*   font-family: 'Playfair Display', serif; */
 }
 #Disagree{
 background-color: #e26ab0;
 
-}
-
-@font-face {
-  font-family: 'thefont';
-  src: url('fonts/the-font.otf');
-  font-style: normal;
 }

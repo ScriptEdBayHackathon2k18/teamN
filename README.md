@@ -1,17 +1,18 @@
 # ScriptEd Bay Area Hackathon: Dare Explore Disrupt!
 
 ### Your Project Members
-Nayeli
-Ali
-Jose
+Nayeli<br/>
+Ali<br/>
+Jose<br/>
 
-Patrick (Volunteer)
+Patrick (Volunteer)<br/>
 Joyce (Volunteer)
 
 ### What is the name of your project?
-
+Daily Drumpf
 
 ### What does this project do?
+Provides daily updates on President Trump's activity
 
 ### Who did you design this project for?
 
