@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Playfair Display';
+  font-family: 'Bangers';
   src: url("https://fonts.googleapis.com/css?family=Bangers");
   font-style: normal;
 }
@@ -11,9 +11,10 @@ h1 {
 }
 #Agree{
   background-color: #8c4d24;
-/*   font-family: 'Playfair Display', serif; */
+font-family: 'Bangers', cursive;
 }
 #Disagree{
 background-color: #e26ab0;
-
+font-family: 'Bangers', cursive;
 }
+
