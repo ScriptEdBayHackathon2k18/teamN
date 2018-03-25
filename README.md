@@ -21,15 +21,13 @@ People who want to be more politially informed and active
 Political unrest
 
 ### What challenges did you run into?
+Ali - learning about value <br/>
+Nayeli - everything we hadn't learned yet, adding links in the header <br/>
+Jose - trying to figure out the really really part, learning to use append
 
 ### What accomplishments are you most proud of?
+Ali and Nayeli - becoming a pro at styling
+Jose - maybe kinda proud of using append
 
 ### What did your team learn?
-
-
-
-
-
-
-
 

@@ -4,64 +4,90 @@
   src: url("https://fonts.googleapis.com/css?family=Bangers");
   font-style: normal;
 }
+
+/* MAIN PAGE */
+
+
+p{
+  font-family: 'Ultra', serif;
+}
+
+#Agree{
+  background-color: #8c4d24;
+  font-family: 'Bangers', cursive;
+  width: 115px;
+  height: 40px;
+  margin: 30px;
+}
+
+#HomeButtons{
+  display: flex;
+  justify-content: center;
+}
+
+#Disagree{
+  background-color: #e26ab0;
+  font-family: 'Bangers', cursive;
+  width: 115px;
+  height: 40px;
+  margin: 30px;
+}
+
+/* #happy{
+  width: 400px;
+  height: auto;
+} */
+#R{
+  font-family: 'Ultra', serif;
+}
+#S{
+  font-family: 'Ultra', serif;
+}
+#yes{
+  margin: 15px;
+}
+#No{
+  margin: 15px;
+}
+
+/* DISAGREE PAGE */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+} 
+
+/* #MadTrump{
+  width: 400px;
+  height: auto;
+} */
+
+#R {display: inline;}
+#S {display: inline;}
+
+img {
+  width: 30%;
+}
+/* everything */
+
+body {
+  margin: 0;
+  width: 100%;
+  box-sizing: border-box;
+  border: 10px red;
+  border-style:  double;
+  padding: 4px;
+  background-color: #FFBD50;
+  text-align: center;
+}
+
 h1 {
   color: Red;
   text-align: center;
   font-family: 'Lobster', cursive;
 }
 
-
-/* MAIN PAGE */
-#MainPage{
-background-color: #FFBD50;
-}
-#Agree{
-  background-color: #8c4d24;
-font-family: 'Bangers', cursive;
-width: 115px;
-height: 40px;
-margin: 30px;
-}
-#HomeButtons{
-display: flex;
-justify-content: center;
-}
-#Disagree{
-background-color: #e26ab0;
-font-family: 'Bangers', cursive;
-width: 115px;
-height: 40px;
-margin: 30px;
-}
-
-
-/* AGREE PAGE */
-#Agreepage{
-  background-color: #FFBD50;
-}
-#happy{
-    width: 400px;
-    height: auto;
-}
-
-/* DISAGREE PAGE */
-#DisagreePage{
- width: 1110px;
- border: 10px red;
-    border-style:  double;
-    margin: 90px;
-    padding: 4px;;
-background-color: #FFBD50;
-  
-  
-}
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  P
-#MadTrump{
-    width: 400px;
-    height: auto;
+#donaldhead{
+  width: 8%;
 }
