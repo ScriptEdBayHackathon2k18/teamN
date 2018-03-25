@@ -1,4 +1,12 @@
 h1 {
   color: Red;
+  text-align: center;
 }
+#Agree{
+background-color: #8c4d24;
+  
+}
+#Disagree{
+background-color: #e26ab0;
 
+}
